@@ -3,11 +3,14 @@ Notebooks I've collected and written that demonstrate techniques in a way I can 
 
 ## Index
 
-### tensorflow_mlp_iris
-Basic Feed Forward / Multi_Layer Perceptron using Tensorflow and Iris Dataset - Written by me
+### nn_from_scratch_MNIST
+Basic Feed Forward / Multi-Layer Perceptron written from scratch using the MNIST data set
 
 ### tensorflow_mlp_iris
-Basic Feed Forward / Multi_Layer Perceptron using Tensorflow and Iris Dataset. Uses Tensorflow API best practices like layers and estimators - Written by me
+Basic Feed Forward / Multi_Layer Perceptron using Tensorflow and Iris Dataset
+
+### tensorflow_mlp_iris
+Basic Feed Forward / Multi_Layer Perceptron using Tensorflow and Iris Dataset. Uses Tensorflow API best practices like layers and estimators
 
 ### tensorflow_neural_network
 Basic Multi-Layer Perceptron using Tensorflow and MNIST dataset ( [Source](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/3_NeuralNetworks/neural_network_raw.ipynb) )

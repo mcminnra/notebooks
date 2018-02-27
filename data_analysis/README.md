@@ -4,4 +4,4 @@ Collection of notebooks I've written to perform data analysis on various dataset
 ## Index
 
 ### cscareersurvey
-Data Analysis Project I did on Reddit's /r/cscareerquestions survey data
+Data Analysis I did on Reddit's /r/cscareerquestions survey data
