@@ -1,7 +1,10 @@
 # Primers
-Notebooks I've collected and written that demonstrate techniques in a way I can reference easily.
+Notebooks I've written and collectedthat demonstrate techniques in a way I can reference easily.
 
 ## Index
+
+### linear_regression_closed_form_vs_gradient_descent
+Applies a closed form and gradient descent solution to linear regression from scratch. 
 
 ### nn_from_scratch_MNIST
 Basic Feed Forward / Multi-Layer Perceptron written from scratch using the MNIST data set
