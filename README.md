@@ -5,8 +5,8 @@ If not written by me, source is attributed.
 
 ## Index
 
-### data_analysis
+### [Data Analysis](./data_analysis)
 Collection of notebooks I've written to perform data analysis on various datasets and projects.
 
-### primers
+### [Primers](./primers)
 Notebooks I've written and collected that demonstrate techniques in a way I can reference easily.
