@@ -3,6 +3,12 @@ Collection of notebooks I've written to perform data analysis on various dataset
 
 ## Index
 
+### [Boston - EDA and Ensemble Modeling](./boston.ipynb)
+Simple Exploratory Data Analysis and Exnsemble Model fitting to the Boston Housing Dataset
+
+### [Climate Analysis - Bloomington, IN vs. Seattle, WA](./climate.ipynb)
+Compare the climates between Bloomington, Indiana and Seattle, Washington
+
 ### [CS Career Survey](./cscareersurvey_eda.ipynb)
 Exploratory Data Analysis on Reddit's [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/) survey data
 
