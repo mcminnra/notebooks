@@ -2,6 +2,9 @@
 Notebooks I've written and collected that demonstrate techniques in a way I can reference easily.
 
 ## Index
+
+### [Bayesian Regression](./bayesian_regression_pymc3.ipynb)
+Bayesian Regression using PyMC3
   
 ### [Linear Regression](./linear_regression.ipynb)
 Linear Regression(s) from scratch
@@ -20,6 +23,9 @@ Implements a neural network from scratch on the MNIST dataset. Also, Implements 
 
 ### [Softmax Regression](./softmax_regression.ipynb)
 Softmax Regression (Multi-Class Logistic Regression) from scratch
+
+### [Support Vector Machine](./svm.ipynb)
+Support Vector Machine from scratch
 
 ### [Tensorflow Basic Feed-Forward NN - Iris Dataset](./tensorflow_mlp_iris.ipynb)
 Basic Feed Forward / Multi_Layer Perceptron using Tensorflow and Iris Dataset.
