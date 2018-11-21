@@ -21,6 +21,9 @@ Logistic Regression from scratch
 ### [Nerual Network from Scratch - MNIST Dataset](./nn_from_scratch_MNIST.ipynb)
 Implements a neural network from scratch on the MNIST dataset. Also, Implements a few extras like DropConnect, ADAM Optimzation, and Generalization Loss Early Stopping
 
+### [Skater Feature Importances](./skater_global_feature_importances.ipynb)
+A notebook that looks are feature importances provided by the skater python package
+
 ### [Softmax Regression](./softmax_regression.ipynb)
 Softmax Regression (Multi-Class Logistic Regression) from scratch
 
