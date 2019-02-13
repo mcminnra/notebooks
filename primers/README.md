@@ -18,6 +18,9 @@ Compares Linear Regression's closed form solution against a gradient descent imp
 ### [Logistic Regression](./logistic_regression.ipynb)
 Logistic Regression from scratch
 
+### [Multi-Armed Bandits](./multi_armed_bandits.ipynb)
+Various MAB algorithms
+
 ### [Nerual Network from Scratch - MNIST Dataset](./nn_from_scratch_MNIST.ipynb)
 Implements a neural network from scratch on the MNIST dataset. Also, Implements a few extras like DropConnect, ADAM Optimzation, and Generalization Loss Early Stopping
 
