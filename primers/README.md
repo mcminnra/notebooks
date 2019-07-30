@@ -5,6 +5,9 @@ Notebooks I've written and collected that demonstrate techniques in a way I can 
 
 ### [Bayesian Regression](./bayesian_regression_pymc3.ipynb)
 Bayesian Regression using PyMC3
+
+### [Frisch–Waugh–Lovell Theorem for Causality Estimation](./frisch–waugh–lovell.ipynb)
+Using Frisch–Waugh–Lovell Theorem for Causality Estimation of treatment variables
   
 ### [Linear Regression](./linear_regression.ipynb)
 Linear Regression(s) from scratch
