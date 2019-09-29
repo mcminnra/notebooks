@@ -45,6 +45,9 @@ Basic Feed Forward / Multi_Layer Perceptron using Tensorflow and Iris Dataset.
 ### [Tensorflow Basic Feed-Forward NN (Best Practices) - Iris Dataset](./tensorflow_mlp_iris_best_practices.ipynb)
 Basic Feed Forward / Multi_Layer Perceptron using Tensorflow and Iris Dataset. Uses Tensorflow API best practices like layers and estimators
 
+### [Tensorflow Basic CNN](./tensorflow_cnn.ipynb)
+Basic CNN using the Dogs vs. Cats Dataset
+
 ## Noteboks From Other Sources
 
 ### [Tensorflow Neural Network](./tensorflow_neural_network_primer.ipynb)
