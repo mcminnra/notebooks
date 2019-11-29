@@ -7,7 +7,7 @@ Notebooks I've written and collected that demonstrate techniques in a way I can 
 Bayesian Regression using PyMC3
 
 ### [Ensemble Stacking](./ensemble-stacking.ipynb)
-Bayesian Regression using PyMC3
+Ensemble stacking example
 
 ### [Frisch–Waugh–Lovell Theorem for Causality Estimation](./frisch_waugh_lovell.ipynb)
 Using Frisch–Waugh–Lovell Theorem for Causality Estimation of treatment variables
