@@ -30,6 +30,9 @@ Various MAB algorithms
 ### [Nerual Network from Scratch - MNIST Dataset](./nn_from_scratch_MNIST.ipynb)
 Implements a neural network from scratch on the MNIST dataset. Also, Implements a few extras like DropConnect, ADAM Optimzation, and Generalization Loss Early Stopping
 
+### [PyTorch Basic CNN](./pytorch_cnn.ipynb)
+Basic CNN using the Dogs vs. Cats Dataset
+
 ### [Skater Feature Importances](./skater_global_feature_importances.ipynb)
 A notebook that looks are feature importances provided by the skater python package
 
