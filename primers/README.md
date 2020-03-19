@@ -1,7 +1,38 @@
 # Primers
 Notebooks I've written and collected that demonstrate techniques in a way I can reference easily.
 
-## Index
+## Deep Learning
+
+### [Nerual Network from Scratch - MNIST Dataset](./nn_from_scratch_MNIST.ipynb)
+Implements a neural network from scratch on the MNIST dataset. Also, Implements a few extras like DropConnect, ADAM Optimzation, and Generalization Loss Early Stopping
+
+### [PyTorch Basic CNN](./pytorch_cnn.ipynb)
+Basic CNN using the Dogs vs. Cats Dataset
+
+### [Tensorflow Basic Feed-Forward NN - Iris Dataset](./tensorflow_mlp_iris.ipynb)
+Basic Feed Forward / Multi_Layer Perceptron using Tensorflow and Iris Dataset.
+
+### [Tensorflow Basic Feed-Forward NN (Best Practices) - Iris Dataset](./tensorflow_mlp_iris_best_practices.ipynb)
+Basic Feed Forward / Multi_Layer Perceptron using Tensorflow and Iris Dataset. Uses Tensorflow API best practices like layers and estimators
+
+### [Tensorflow Basic CNN](./tensorflow_cnn.ipynb)
+Basic CNN using the Dogs vs. Cats Dataset
+
+### [Tensorflow Neural Network](./tensorflow_neural_network_primer.ipynb)
+Basic Multi-Layer Perceptron using Tensorflow and MNIST dataset ( [Source](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/3_NeuralNetworks/neural_network_raw.ipynb) )
+
+### [Tensorflow Neural Network (Best Practices)](./tensorflow_neural_network_primer_best_practices.ipynb)
+Basic Multi-Layer Perceptron using Tensorflow and MNIST dataset. Uses Tensorflow API best practices like layers and estimators ( [Source](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/3_NeuralNetworks/neural_network.ipynb) )
+
+## Interpretability
+
+### [Frisch–Waugh–Lovell Theorem for Causality Estimation](./frisch_waugh_lovell.ipynb)
+Using Frisch–Waugh–Lovell Theorem for Causality Estimation of treatment variables
+
+### [Skater Feature Importances](./skater_global_feature_importances.ipynb)
+A notebook that looks are feature importances provided by the skater python package
+
+## Machine Learning
 
 ### [Bayesian Regression](./bayesian_regression_pymc3.ipynb)
 Bayesian Regression using PyMC3
@@ -9,9 +40,6 @@ Bayesian Regression using PyMC3
 ### [Ensemble Stacking](./ensemble-stacking.ipynb)
 Ensemble stacking example
 
-### [Frisch–Waugh–Lovell Theorem for Causality Estimation](./frisch_waugh_lovell.ipynb)
-Using Frisch–Waugh–Lovell Theorem for Causality Estimation of treatment variables
-  
 ### [Linear Regression](./linear_regression.ipynb)
 Linear Regression(s) from scratch
 -  Linear Regression
@@ -24,37 +52,18 @@ Compares Linear Regression's closed form solution against a gradient descent imp
 ### [Logistic Regression](./logistic_regression.ipynb)
 Logistic Regression from scratch
 
-### [Multi-Armed Bandits](./multi_armed_bandits.ipynb)
-Various MAB algorithms
-
-### [Nerual Network from Scratch - MNIST Dataset](./nn_from_scratch_MNIST.ipynb)
-Implements a neural network from scratch on the MNIST dataset. Also, Implements a few extras like DropConnect, ADAM Optimzation, and Generalization Loss Early Stopping
-
-### [PyTorch Basic CNN](./pytorch_cnn.ipynb)
-Basic CNN using the Dogs vs. Cats Dataset
-
-### [Skater Feature Importances](./skater_global_feature_importances.ipynb)
-A notebook that looks are feature importances provided by the skater python package
-
 ### [Softmax Regression](./softmax_regression.ipynb)
 Softmax Regression (Multi-Class Logistic Regression) from scratch
 
 ### [Support Vector Machine](./svm.ipynb)
 Support Vector Machine from scratch
 
-### [Tensorflow Basic Feed-Forward NN - Iris Dataset](./tensorflow_mlp_iris.ipynb)
-Basic Feed Forward / Multi_Layer Perceptron using Tensorflow and Iris Dataset.
+## Statistics
 
-### [Tensorflow Basic Feed-Forward NN (Best Practices) - Iris Dataset](./tensorflow_mlp_iris_best_practices.ipynb)
-Basic Feed Forward / Multi_Layer Perceptron using Tensorflow and Iris Dataset. Uses Tensorflow API best practices like layers and estimators
+### [Beta Distribution](./beta_distribution)
+Overview of the Beat Distribution
+  
+## Etc.
 
-### [Tensorflow Basic CNN](./tensorflow_cnn.ipynb)
-Basic CNN using the Dogs vs. Cats Dataset
-
-## Noteboks From Other Sources
-
-### [Tensorflow Neural Network](./tensorflow_neural_network_primer.ipynb)
-Basic Multi-Layer Perceptron using Tensorflow and MNIST dataset ( [Source](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/3_NeuralNetworks/neural_network_raw.ipynb) )
-
-### [Tensorflow Neural Network (Best Practices)](./tensorflow_neural_network_primer_best_practices.ipynb)
-Basic Multi-Layer Perceptron using Tensorflow and MNIST dataset. Uses Tensorflow API best practices like layers and estimators ( [Source](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/3_NeuralNetworks/neural_network.ipynb) )
+### [Multi-Armed Bandits](./multi_armed_bandits.ipynb)
+Various MAB algorithms
