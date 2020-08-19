@@ -3,8 +3,4 @@ data/
 .DS_Store
 
 # Private Notebooks
-data_analysis/health.ipynb
-data_analysis/ip_access_csv.ipynb
-data_analysis/ip_access_log.ipynb
-data_analysis/stock_*
-!data_analysis/stock_strat.*
+ignored/
