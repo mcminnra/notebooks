@@ -73,7 +73,10 @@ Various MAB algorithms
 ### [Beta Distribution](./beta_distribution.ipynb)
 Overview of the Beta Distribution
 
+### [Maximum Likelihood Estimation](mle.ipynb)
+MLE parameter estimation
+
 ### [Probablistic Programming](./probabilistic_programming.ipynb)
-Parameter estimation using pymc3
+Bayesian Parameter Estimation using pymc3
 
 
