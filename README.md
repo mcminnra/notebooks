@@ -76,6 +76,9 @@ Overview of the Beta Distribution
 ### [Maximum Likelihood Estimation](mle.ipynb)
 MLE parameter estimation
 
+### [Probability Distribution Intuitions](./probability_distribution_intuitions.ipynb)
+Intuitions and why you'd use them about highly used distributions
+
 ### [Probablistic Programming](./probabilistic_programming.ipynb)
 Bayesian Parameter Estimation using pymc3
 
