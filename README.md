@@ -57,6 +57,9 @@ Compares Linear Regression's closed form solution against a gradient descent imp
 ### [Logistic Regression](./logistic_regression.ipynb)
 Logistic Regression from scratch
 
+### [Optimization Python Libraries](./optimization_libraries.ipynb)
+Survey of optimization libraries in python. The notebook is mainly focused on hyperparameters, but you can use the libraries for any general optimization problem.
+
 ### [Softmax Regression](./softmax_regression.ipynb)
 Softmax Regression (Multi-Class Logistic Regression) from scratch
 
